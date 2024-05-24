@@ -4,7 +4,7 @@ Nikhil DP
 
 As a passionate and dedicated software developer, I hold a Bachelor’s degree in Computer Applications and have honed my skills through a comprehensive Python Full Stack course at Besant Technologies, Rajajinagar. My expertise spans across front-end and back-end development, where I have gained practical experience in building dynamic and responsive web applications.
 
-![Black modern Software development Instagram Post ](https://github.com/Nikhil10422/Nikhil10422/assets/123402914/a930b407-a0b1-468d-bcc5-7b64768af4ce)
+
 
 
 <!--
